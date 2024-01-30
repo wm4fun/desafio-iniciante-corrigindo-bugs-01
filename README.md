@@ -1,2 +1,2 @@
-# desafio-iniciante-corrigindo-bugs-01
+# projeto01-desafio-iniciante-corrigindo-bugs
 Rocketseat
